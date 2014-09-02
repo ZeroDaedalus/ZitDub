@@ -1,4 +1,4 @@
 ZitDub
 ======
 
-WordPress plugin for pulling GitHub repository information
+Command Line GitHub Tool
