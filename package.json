@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ZeroDaedalus/ZitDub/issues"
   },
-  "homepage": "https://github.com/ZeroDaedalus/ZitDub"
+  "homepage": "https://github.com/ZeroDaedalus/ZitDub",
+  "dependencies": {
+    "commander": "^2.3.0"
+  }
 }
