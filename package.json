@@ -1,0 +1,25 @@
+{
+  "name": "ZitDub",
+  "version": "0.0.0",
+  "description": "Command Line GitHub Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeroDaedalus/ZitDub.git"
+  },
+  "keywords": [
+    "git",
+    "shell",
+    "cli",
+    "commander"
+  ],
+  "author": "Dewitt A. Buckingham III",
+  "license": "GPlv2",
+  "bugs": {
+    "url": "https://github.com/ZeroDaedalus/ZitDub/issues"
+  },
+  "homepage": "https://github.com/ZeroDaedalus/ZitDub"
+}
